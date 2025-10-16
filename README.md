@@ -16,7 +16,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6 
 Execute the programs and publish them. 
 ## CODE 
- 
+ ```
 imagemap.html 
  
 <!DOCTYPE html> 
@@ -47,6 +47,7 @@ href="https://www.google.com/search?q=cup+of+coffee">
     </map> 
 </body> 
 </html> 
+```
  
 ## OUTPUT
 ![alt text](<Screenshot 2025-10-16 101038-1.png>)
